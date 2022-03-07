@@ -1,0 +1,8 @@
+2022-02-23 19:42:26 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, try to find an extension (bean) of type java.lang.String, dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:42:26 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, type:java.lang.String found, stop get bean., dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:43:30 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, try to find an extension (bean) of type java.lang.String, dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:43:30 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, type:java.lang.String found, stop get bean., dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:47:42 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, try to find an extension (bean) of type java.lang.String, dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:47:42 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, type:java.lang.String found, stop get bean., dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:50:27 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, try to find an extension (bean) of type java.lang.String, dubbo version: 2.6.6, current host: 10.224.219.76
+2022-02-23 19:50:27 SpringExtensionFactory.java WARN  [DUBBO] No spring extension (bean) named:defaultCompiler, type:java.lang.String found, stop get bean., dubbo version: 2.6.6, current host: 10.224.219.76
